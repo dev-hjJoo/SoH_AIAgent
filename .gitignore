@@ -168,3 +168,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Streamlit
+.streamlit
+*.toml
+nohup.out

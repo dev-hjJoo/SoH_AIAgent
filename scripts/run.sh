@@ -2,4 +2,4 @@
 
 cd `dirname $0`/..
 
-nohup streamlit run front/app.py --server.runOnSave true
+nohup streamlit run front/app.py --server.runOnSave true --server.port 8501
